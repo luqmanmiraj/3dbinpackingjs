@@ -2,7 +2,7 @@
 	https://raw.githubusercontent.com/wknechtel/3d-bin-pack/master/src/binpack.c
 
 */
-
+var a = "ahoo";
 var initialize = function(){},
 	inputboxlist = function(){},
 	execiterations = function(){},
